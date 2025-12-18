@@ -43,8 +43,9 @@ without retraining or fine-tuning.
 
 ## Writing
 
-- *Why Agents Should Sometimes Refuse to Act* (coming soon)
-- *Negative Results in Chain-of-Thought Parallelism* (coming soon)
+## Writing
+
+- [Semantic Transfer Learning Without Gradient Descent](posts/semantic-transfer-learning)
 
 ---
 
