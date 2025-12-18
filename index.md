@@ -45,7 +45,7 @@ without retraining or fine-tuning.
 
 ## Writing
 
-- [Semantic Transfer Learning Without Gradient Descent](posts/semantic-transfer-learning)
+- [Semantic Transfer Learning Without Gradient Descent] https://github.com/VMhetar/VMhetar.github.io/blob/main/posts/semantic-transfer-learning.md
 
 ---
 
