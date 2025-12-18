@@ -45,11 +45,11 @@ without retraining or fine-tuning.
 
 ## Writing
 
-- [Semantic Transfer Learning Without Gradient Descent] https://github.com/VMhetar/VMhetar.github.io/blob/main/posts/semantic-transfer-learning.md
+- [Semantic Transfer Learning Without Gradient Descent] (https://github.com/VMhetar/VMhetar.github.io/blob/main/posts/semantic-transfer-learning.md)
 
 ---
 
 ## Contact
 
-- GitHub: https://github.com/VMhetar  
-- Email: mhetarvarad@gmail.com
+- GitHub: (https://github.com/VMhetar)  
+- Email: (mhetarvarad@gmail.com)
